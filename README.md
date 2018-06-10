@@ -1,1 +1,0 @@
-# exercism-ruby
